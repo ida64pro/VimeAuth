@@ -1,0 +1,8 @@
+name: VimeGroupSync
+version: 1.0
+main: me.artyom.vimeauth.VimeGroupSync
+api-version: 1.20
+commands:
+  api:
+    description: Авторизация через токен VimeWorld
+    usage: /api auth <токен>
